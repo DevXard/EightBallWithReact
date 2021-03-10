@@ -1,0 +1,20 @@
+.black{
+    background-color: black;
+}
+
+.white{
+    color: white;
+}
+
+#ball{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#text {
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    color: white;
+}
